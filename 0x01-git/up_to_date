@@ -1,1 +1,1 @@
-git branch -f --track
+git pull
